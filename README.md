@@ -1,6 +1,6 @@
 # RGB Workflow Diagram
 
-[RGB](https://github.com/rgb-org/rgb-node): Confidential & scalable non-blockchain smart contracts for bitcoin & lightning
+[RGB](https://github.com/rgb-org): Confidential & scalable non-blockchain smart contracts for bitcoin & lightning
 
 Feel free to clown the repo and import the diagram in [diagrams.net](https://www.diagrams.net/)
 
